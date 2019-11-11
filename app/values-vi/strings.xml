@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhotoSketch</string>
+    <string name="libraryTitle">THƯ VIỆN</string>
+    <string name="settingTitle">CÀI ĐẶT</string>
+    <string name="photoTitle">HÌNH ẢNH</string>
+    <string name="editTitle">CHỈNH SỬA</string>
+
+    <!--Text-->
+    <string name="gallery">Kho Ảnh</string>
+    <string name="camera">Máy Ảnh</string>
+    <string name="cancel">Hủy</string>
+
+    <!--Buttons-->
+    <string name="startButton">BẮT ĐẦU</string>
+    <string name="rateButton">ĐÁNH GIÁ</string>
+    <string name="followButton">THEO DÕI</string>
+    <string name="saveButton">LƯU</string>
+    <string name="sketchButton">VẼ ! ! !</string>
+    <string name="shareButton">CHIA SẺ</string>
+    <string name="nextButton">TIẾP THEO</string>
+
+    <!--Labels-->
+    <string name="darkmode">Chế Độ Tối</string>
+    <string name="language">Ngôn Ngữ</string>
+    <string name="numItem">Số Ảnh Mỗi Dòng</string>
+</resources>

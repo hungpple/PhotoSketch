@@ -1,0 +1,33 @@
+<resources>
+    <!--Title-->
+    <string name="app_name">PhotoSketch</string>
+    <string name="libraryTitle">LIBRARY</string>
+    <string name="settingTitle">SETTINGS</string>
+    <string name="photoTitle">PHOTO</string>
+    <string name="editTitle">EDIT</string>
+
+
+    <!--Text-->
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+
+
+    <!--Buttons-->
+    <string name="startButton">GET START</string>
+    <string name="rateButton">RATE US</string>
+    <string name="followButton">FOLLOW US</string>
+    <string name="saveButton">SAVE</string>
+    <string name="sketchButton">SKETCH ! ! !</string>
+    <string name="shareButton">SHARE</string>
+    <string name="nextButton">NEXT</string>
+
+    <!--Labels-->
+    <string name="darkmode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="numItem">Images Each Row</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
